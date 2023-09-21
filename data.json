@@ -1,0 +1,32 @@
+[
+  {
+    "product_id": 1,
+    "prices": {
+      "1": {
+        "price_purchase": 10001,
+        "price_selling": 12001,
+        "price_discount": 11001
+      },
+      "2": {
+        "price_purchase": 10002,
+        "price_selling": 12002,
+        "price_discount": 11002
+      }
+    }
+  },
+  {
+    "product_id": 2,
+    "prices": {
+      "1": {
+        "price_purchase": 20001,
+        "price_selling": 22001,
+        "price_discount": 21001
+      },
+      "2": {
+        "price_purchase": 20002,
+        "price_selling": 22002,
+        "price_discount": 21002
+      }
+    }
+  }
+]
