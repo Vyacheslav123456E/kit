@@ -2,8 +2,8 @@ POST  http://kit/api/auth/login HTTP/1.1
 content-type: application/json
 
 {
-    "username":"user1",
-    "password":"password1"
+    "username":"Иван",
+    "password":"123"
 }
 
 ###
