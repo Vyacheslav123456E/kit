@@ -5,8 +5,8 @@ class Constants
 
     const DB = [
         'HOSTNAME' => 'localhost',
-        'USERNAME' => 'root',
-        'PASSWORD' => 'kopeika541',
+        'USERNAME' => '',
+        'PASSWORD' => '',
         'DATABASE' => 'kit',
         'PORT' => 3306,
     ];
